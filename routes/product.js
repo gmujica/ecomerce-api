@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { verifyToken, verifyTokenAndAuthorization, verifyTokenAndAdmin } = require('../middlewares/verifyToken');
+const { verifyTokenAndAdmin } = require('../middlewares/verifyToken');
 const Product = require('../models/Product');
 
 //Create product
