@@ -1,6 +1,6 @@
 # Ecomerce express API
 
-Node MongoDB eCommerce Rest API using Stripe payment method. Node.js (Express) shopping API.
+Node MongoDB eCommerce Rest API using Stripe payment method. Node.js (Express) shopping API with users type authentications.
 
 ## 🔨 Resources
 
