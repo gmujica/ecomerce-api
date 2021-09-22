@@ -1,6 +1,6 @@
 # Ecomerce express API
 
-Node MongoDB eCommerce Rest API using Stripe payment method. Node.js (Express) shopping API.
+Node MongoDB eCommerce Rest API using Stripe payment method. Node.js (Express) shopping API with users type authentications.
 
 ## 🔨 Resources
 
@@ -39,6 +39,7 @@ The service will be lifted in http://localhost:5000
     MONGO_URL=[MONGO_URL]
     PASS_SEC=[PASS_SEC]
     JWT_SEC=[JWT_SEC]
+    STRIPE_KEY=[STRIPE_KEY]
 
 ## 🔧 Tools
 
