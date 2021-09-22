@@ -39,6 +39,7 @@ The service will be lifted in http://localhost:5000
     MONGO_URL=[MONGO_URL]
     PASS_SEC=[PASS_SEC]
     JWT_SEC=[JWT_SEC]
+    STRIPE_KEY=[STRIPE_KEY]
 
 ## 🔧 Tools
 
