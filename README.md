@@ -1,14 +1,16 @@
 # Ecomerce express API
 
-Node MongoDB eCommerce Rest API using Stripe payment method. Node.js (Express) shopping API with users type authentications.
+Node MongoDB eCommerce Rest API using Stripe payment method. Node.js (Express) shopping API with users type authentications. 
 
 ## 🔨 Resources
 
-[![Build Status](https://drone.segurosfalabella.com/api/badges/segurosfalabella/customer-login-lia-pe-api/status.svg)](https://drone.segurosfalabella.com/segurosfalabella/customer-login-lia-pe-api)
+This Rest API consists of a CRUD and user authentication with their types, regular user and admin user ... the latter being the reol with the most privileges.
+
+
 
 ☁️ URLs:
 
-- Heroku: xxxxxxxxxxxxxx
+- Heroku: https://ecomerce-express-api.herokuapp.com/
 - Local: http://localhost:5000/
 
 ⚙️ Base dependencies:
@@ -58,6 +60,7 @@ All exposed endpoints start with `http://localhost:5000/`.
     /api/products
     /api/orders
     /api/cart
+    /api/checkout/payment
 
 #### Get Request:
 
