@@ -42,6 +42,7 @@ The service will be lifted in http://localhost:5000
     PASS_SEC=[PASS_SEC]
     JWT_SEC=[JWT_SEC]
     STRIPE_KEY=[STRIPE_KEY]
+    PORT=[PORT]
 
 ## 🔧 Tools
 
